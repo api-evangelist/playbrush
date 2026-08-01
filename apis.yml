@@ -1,22 +1,62 @@
 aid: playbrush
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/playbrush.png
 name: Playbrush
-description: Playbrush is a company surfaced as a portfolio company of speedinvest and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Playbrush is a consumer oral-care technology brand that makes smart, gamified
+  electric and sonic toothbrushes for children (ages 3+), pairing a Bluetooth-connected
+  brush with a companion mobile app that turns brushing into interactive games and
+  coaching to build good dental-hygiene habits. Founded as a UK/Austria startup and
+  backed by Speedinvest, the Playbrush product line has since been acquired by
+  SUNSTAR and is now sold under the GUM Playbrush brand; the former playbrush.com
+  domain 302-redirects to a Sunstar GUM product page. Playbrush is a hardware/consumer-app
+  company and exposes no public developer portal, API, specification, or /.well-known/
+  discovery surface. This profile was surfaced as a Speedinvest portfolio company and
+  added to the API Evangelist network as a lead; enrichment confirmed there is no API surface.
 url: https://raw.githubusercontent.com/api-evangelist/playbrush/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - speedinvest
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-api-surface
+x-status: acquired-by-sunstar
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Oral Care
+- Consumer Hardware
+- Smart Toothbrush
+- IoT
+- Bluetooth
+- Kids
+- Health
+- Gamification
+- Consumer Electronics
 apis: []
+common:
+- type: Website
+  url: https://playbrush.com
+  x-note: 302-redirects to https://www.sunstargum.com (GUM Playbrush product page)
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
