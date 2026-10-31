@@ -64,6 +64,36 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Playbrush is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: speedinvest
+**Status:** acquired-by-sunstar
+
+Playbrush is a consumer oral-care technology brand that makes smart, gamified electric and sonic toothbrushes for children (ages 3+), pairing a Bluetooth-connected brush with a companion mobile app that turns brushing into interactive games and coaching to build good dental-hygiene habits. Founded as a UK/Austria startup and backed by Speedinvest, the Playbrush product line has since been acquired by SUNSTAR and is now sold under the GUM Playbrush brand; the former playbrush.com domain 302-redirects to a Sunstar GUM product page. Playbrush is a hardware/consumer-app company and exposes no public developer portal, API, specification, or /.well-known/ discovery surface. This profile was surfaced as a Speedinvest portfolio company and added to the API Evangelist network as a lead; enrichment confirmed there is no API surface.
+
+**Areas:** Company · Oral Care · Consumer Hardware · Smart Toothbrush · IoT · Bluetooth · Kids · Health · Gamification · Consumer Electronics
+
+## Playbrush on APIs.io (historical record)
+
+Everything profiled for Playbrush is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/playbrush/](https://apis.io/providers/playbrush/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://playbrush.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Playbrush: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/playbrush/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
